@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Software | Chen Lab</title>
+    <link>https://jzhan211.github.io/software/</link>
+      <atom:link href="https://jzhan211.github.io/software/index.xml" rel="self" type="application/rss+xml" />
+    <description>Software</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 18 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jzhan211.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Software</title>
+      <link>https://jzhan211.github.io/software/</link>
+    </image>
+    
+    <item>
+      <title>BAMMSC</title>
+      <link>https://jzhan211.github.io/software/bammsc/</link>
+      <pubDate>Tue, 18 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://jzhan211.github.io/software/bammsc/</guid>
+      <description>&lt;p&gt;BAMMSC is an R package for clustering droplet-based single cell transcriptomic data from multiple individuals simultaneously. It adopts a Bayesian hierarchical Dirichlet multinomial mixture model, which explicitly characterizes three levels of variabilities (i.e., genes, cell types and individuals). BAMMSC is able to taking account for data heterogeneity and batch effect, such as unbalanced sequencing depths, variable read length and hidden technical bias, among multiple individuals. BAMMSC also integrates DIMMSC for single individual analysis. The BAMMSC codebase and examples is currently available 
+&lt;a href=&#34;https://github.com/lichen-lab/BAMMSC&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Sun, Zhe &amp;amp; Chen, Li &amp;amp; Xin, Hongyi &amp;amp; Huang, Qianhui &amp;amp; Cillo, Anthony &amp;amp; Tabib, Tracy &amp;amp; Ding, Ying &amp;amp; Kolls, Jay &amp;amp; Bruno, Tullia &amp;amp; Lafyatis, Robert &amp;amp; Vignali, Dario &amp;amp; Chen, Kong &amp;amp; Hu, Ming &amp;amp; Chen, Wei. 
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/30967541/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;A Bayesian mixture model for clustering droplet-based single-cell transcriptomic data from population studies&lt;/a&gt;. Nat Commun. 2019;10(1):1649. Published 2019 Apr 9. doi:10.1038/s41467-019-09639-3&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DIMM-SC</title>
+      <link>https://jzhan211.github.io/software/dimm-sc/</link>
+      <pubDate>Tue, 18 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://jzhan211.github.io/software/dimm-sc/</guid>
+      <description>&lt;p&gt;DIMMSC is an R package for clustering droplet-based single cell transcriptomic data. It uses Dirichlet mixture prior to characterize variations across different clusters. An expectation-maximization algorithm is used for parameter inference. This package can provide clustering uncertainty.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Zhe Sun, Ting Wang, Ke Deng, Xiao-Feng Wang, Robert Lafyatis, Ying Ding, Ming Hu, Wei Chen. 
+&lt;a href=&#34;https://academic.oup.com/bioinformatics/article/34/1/139/4060554&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DIMM-SC: A Dirichlet mixture model for clustering droplet-based single cell transcriptomic data&lt;/a&gt;. Bioinformatics 2017.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Contact&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Please feel free to contact us when you have questions.&lt;/p&gt;
+&lt;p&gt;Wei Chen (&lt;a href=&#34;mailto:wei.chen@chp.edu&#34;&gt;wei.chen@chp.edu&lt;/a&gt;) or Ming Hu (&lt;a href=&#34;mailto:hum@ccf.org&#34;&gt;hum@ccf.org&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;To homepage: 
+&lt;a href=&#34;http://www.pitt.edu/~wec47/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wei Chen&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Last update: Aug 2017&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
