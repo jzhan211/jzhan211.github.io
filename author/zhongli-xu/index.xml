@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zhongli Xu | Chen Lab</title>
+    <link>https://jzhan211.github.io/author/zhongli-xu/</link>
+      <atom:link href="https://jzhan211.github.io/author/zhongli-xu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zhongli Xu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>https://jzhan211.github.io/images/logo_hudc197cf39f027930d2b32bd2c43c4241_222808_300x300_fit_lanczos_2.png</url>
+      <title>Zhongli Xu</title>
+      <link>https://jzhan211.github.io/author/zhongli-xu/</link>
+    </image>
+    
+  </channel>
+</rss>
