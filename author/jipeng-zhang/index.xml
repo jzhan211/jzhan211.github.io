@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jipeng Zhang | Chen Lab</title>
-    <link>/author/jipeng-zhang.html</link>
-      <atom:link href="/author/jipeng-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jzhan211.github.io/author/jipeng-zhang.html</link>
+      <atom:link href="https://jzhan211.github.io/author/jipeng-zhang/index.xml" rel="self" type="application/rss+xml" />
     <description>Jipeng Zhang</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
-      <url>/images/logo_hub3f28ff4e2a6779125fa515531a9a21d_11038_300x300_fit_lanczos_2.png</url>
+      <url>https://jzhan211.github.io/images/logo_hub3f28ff4e2a6779125fa515531a9a21d_11038_300x300_fit_lanczos_2.png</url>
       <title>Jipeng Zhang</title>
-      <link>/author/jipeng-zhang.html</link>
+      <link>https://jzhan211.github.io/author/jipeng-zhang.html</link>
     </image>
     
   </channel>
