@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chen Lab</title>
-    <link>https://jzhan211.github.io/</link>
-      <atom:link href="https://jzhan211.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <link>/</link>
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Chen Lab</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 23 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jzhan211.github.io/images/logo_hub3f28ff4e2a6779125fa515531a9a21d_11038_300x300_fit_lanczos_2.png</url>
+      <url>/images/logo_hub3f28ff4e2a6779125fa515531a9a21d_11038_300x300_fit_lanczos_2.png</url>
       <title>Chen Lab</title>
-      <link>https://jzhan211.github.io/</link>
+      <link>/</link>
     </image>
     
     <item>
       <title>BAMMSC</title>
-      <link>https://jzhan211.github.io/software/bammsc.html</link>
+      <link>/software/bammsc.html</link>
       <pubDate>Tue, 18 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://jzhan211.github.io/software/bammsc.html</guid>
+      <guid>/software/bammsc.html</guid>
       <description>&lt;p&gt;BAMMSC is an R package for clustering droplet-based single cell transcriptomic data from multiple individuals simultaneously. It adopts a Bayesian hierarchical Dirichlet multinomial mixture model, which explicitly characterizes three levels of variabilities (i.e., genes, cell types and individuals). BAMMSC is able to taking account for data heterogeneity and batch effect, such as unbalanced sequencing depths, variable read length and hidden technical bias, among multiple individuals. BAMMSC also integrates DIMMSC for single individual analysis. The BAMMSC codebase and examples is currently available 
 &lt;a href=&#34;https://github.com/lichen-lab/BAMMSC&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&lt;/p&gt;
@@ -27,9 +27,9 @@
     
     <item>
       <title>DIMM-SC</title>
-      <link>https://jzhan211.github.io/software/dimm-sc.html</link>
+      <link>/software/dimm-sc.html</link>
       <pubDate>Tue, 18 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://jzhan211.github.io/software/dimm-sc.html</guid>
+      <guid>/software/dimm-sc.html</guid>
       <description>&lt;p&gt;DIMMSC is an R package for clustering droplet-based single cell transcriptomic data. It uses Dirichlet mixture prior to characterize variations across different clusters. An expectation-maximization algorithm is used for parameter inference. This package can provide clustering uncertainty.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Zhe Sun, Ting Wang, Ke Deng, Xiao-Feng Wang, Robert Lafyatis, Ying Ding, Ming Hu, Wei Chen. 
@@ -45,9 +45,9 @@
     
     <item>
       <title>FamLDCaller</title>
-      <link>https://jzhan211.github.io/software/famldcaller.html</link>
+      <link>/software/famldcaller.html</link>
       <pubDate>Sun, 23 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://jzhan211.github.io/software/famldcaller.html</guid>
+      <guid>/software/famldcaller.html</guid>
       <description>&lt;h3 id=&#34;introduction&#34;&gt;Introduction&lt;/h3&gt;
 &lt;p&gt;FamLDCaller is an extension of 
 &lt;a href=&#34;https://genome.sph.umich.edu/wiki/TrioCaller&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TrioCaller&lt;/a&gt; to handle nuclear and general family structure. The input files are simply a vcf file that includes genotype likelihood (or in phred-scale) and a pedigree file that includes relativeness information among individuals (check 
@@ -118,17 +118,17 @@
     
     <item>
       <title>people</title>
-      <link>https://jzhan211.github.io/people.html</link>
+      <link>/people.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://jzhan211.github.io/people.html</guid>
+      <guid>/people.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Positions</title>
-      <link>https://jzhan211.github.io/positions.html</link>
+      <link>/positions.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://jzhan211.github.io/positions.html</guid>
+      <guid>/positions.html</guid>
       <description>&lt;p&gt;&lt;strong&gt;Company Information&lt;/strong&gt;:&lt;/p&gt;
 &lt;p&gt;University of Pittsburgh, Children’s Hospital of Pittsburgh of UPMC&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Position Title&lt;/strong&gt;:&lt;/p&gt;
