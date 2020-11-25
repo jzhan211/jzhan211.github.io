@@ -14,45 +14,45 @@
     
     <item>
       <title>CITE-sort</title>
-      <link>https://jzhan211.github.io/CITE-sort/</link>
+      <link>https://jzhan211.github.io/CITE-sort.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://jzhan211.github.io/CITE-sort/</guid>
+      <guid>https://jzhan211.github.io/CITE-sort.html</guid>
       <description>&lt;meta http-equiv=&#39;refresh&#39; content=&#39;0; URL=http://github.com/QiuyuLian/CITE-sort/&#39;&gt;
 </description>
     </item>
     
     <item>
       <title>CITE-sort</title>
-      <link>https://jzhan211.github.io/software/CITE-sort/</link>
+      <link>https://jzhan211.github.io/software/CITE-sort.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://jzhan211.github.io/software/CITE-sort/</guid>
+      <guid>https://jzhan211.github.io/software/CITE-sort.html</guid>
       <description>&lt;meta http-equiv=&#39;refresh&#39; content=&#39;0; URL=http://github.com/QiuyuLian/CITE-sort/&#39;&gt;
 </description>
     </item>
     
     <item>
       <title>GMMDEMUX</title>
-      <link>https://jzhan211.github.io/GMMDEMUX/</link>
+      <link>https://jzhan211.github.io/GMMDEMUX.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://jzhan211.github.io/GMMDEMUX/</guid>
+      <guid>https://jzhan211.github.io/GMMDEMUX.html</guid>
       <description>&lt;meta http-equiv=&#39;refresh&#39; content=&#39;0; URL=http://54.152.221.82/exp_planner/&#39;&gt;
 </description>
     </item>
     
     <item>
       <title>GMMDEMUX</title>
-      <link>https://jzhan211.github.io/software/GMMDEMUX/</link>
+      <link>https://jzhan211.github.io/software/GMMDEMUX.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://jzhan211.github.io/software/GMMDEMUX/</guid>
+      <guid>https://jzhan211.github.io/software/GMMDEMUX.html</guid>
       <description>&lt;meta http-equiv=&#39;refresh&#39; content=&#39;0; URL=http://54.152.221.82/exp_planner/&#39;&gt;
 </description>
     </item>
     
     <item>
       <title>BAMMSC</title>
-      <link>https://jzhan211.github.io/software/BAMMSC/</link>
+      <link>https://jzhan211.github.io/software/BAMMSC.html</link>
       <pubDate>Tue, 18 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://jzhan211.github.io/software/BAMMSC/</guid>
+      <guid>https://jzhan211.github.io/software/BAMMSC.html</guid>
       <description>&lt;p&gt;BAMMSC is an R package for clustering droplet-based single cell transcriptomic data from multiple individuals simultaneously. It adopts a Bayesian hierarchical Dirichlet multinomial mixture model, which explicitly characterizes three levels of variabilities (i.e., genes, cell types and individuals). BAMMSC is able to taking account for data heterogeneity and batch effect, such as unbalanced sequencing depths, variable read length and hidden technical bias, among multiple individuals. BAMMSC also integrates DIMMSC for single individual analysis. The BAMMSC codebase and examples is currently available 
 &lt;a href=&#34;https://github.com/lichen-lab/BAMMSC&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&lt;/p&gt;
@@ -63,9 +63,9 @@
     
     <item>
       <title>DIMM-SC</title>
-      <link>https://jzhan211.github.io/software/DIMM-SC/</link>
+      <link>https://jzhan211.github.io/software/DIMM-SC.html</link>
       <pubDate>Tue, 18 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://jzhan211.github.io/software/DIMM-SC/</guid>
+      <guid>https://jzhan211.github.io/software/DIMM-SC.html</guid>
       <description>&lt;p&gt;DIMMSC is an R package for clustering droplet-based single cell transcriptomic data. It uses Dirichlet mixture prior to characterize variations across different clusters. An expectation-maximization algorithm is used for parameter inference. This package can provide clustering uncertainty.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Zhe Sun, Ting Wang, Ke Deng, Xiao-Feng Wang, Robert Lafyatis, Ying Ding, Ming Hu, Wei Chen. 
@@ -81,9 +81,9 @@
     
     <item>
       <title>FamLDCaller</title>
-      <link>https://jzhan211.github.io/software/FamLDCaller/</link>
+      <link>https://jzhan211.github.io/software/FamLDCaller.html</link>
       <pubDate>Sun, 23 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://jzhan211.github.io/software/FamLDCaller/</guid>
+      <guid>https://jzhan211.github.io/software/FamLDCaller.html</guid>
       <description>&lt;h3 id=&#34;introduction&#34;&gt;Introduction&lt;/h3&gt;
 &lt;p&gt;FamLDCaller is an extension of 
 &lt;a href=&#34;https://genome.sph.umich.edu/wiki/TrioCaller&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TrioCaller&lt;/a&gt; to handle nuclear and general family structure. The input files are simply a vcf file that includes genotype likelihood (or in phred-scale) and a pedigree file that includes relativeness information among individuals (check 
@@ -154,17 +154,17 @@
     
     <item>
       <title>people</title>
-      <link>https://jzhan211.github.io/people/</link>
+      <link>https://jzhan211.github.io/people.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://jzhan211.github.io/people/</guid>
+      <guid>https://jzhan211.github.io/people.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Positions</title>
-      <link>https://jzhan211.github.io/positions/</link>
+      <link>https://jzhan211.github.io/positions.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://jzhan211.github.io/positions/</guid>
+      <guid>https://jzhan211.github.io/positions.html</guid>
       <description>&lt;p&gt;&lt;strong&gt;Company Information&lt;/strong&gt;:&lt;/p&gt;
 &lt;p&gt;University of Pittsburgh, Children’s Hospital of Pittsburgh of UPMC&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Position Title&lt;/strong&gt;:&lt;/p&gt;
@@ -186,9 +186,9 @@
     
     <item>
       <title>Research</title>
-      <link>https://jzhan211.github.io/research/</link>
+      <link>https://jzhan211.github.io/research.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://jzhan211.github.io/research/</guid>
+      <guid>https://jzhan211.github.io/research.html</guid>
       <description>
 
 
