@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>News | Chen Lab</title>
-    <link>https://jzhan211.github.io/CITE-sort.html</link>
-      <atom:link href="https://jzhan211.github.io/CITE-sort/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jzhan211.github.io/cite-sort.html</link>
+      <atom:link href="https://jzhan211.github.io/cite-sort/index.xml" rel="self" type="application/rss+xml" />
     <description>News</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
       <url>https://jzhan211.github.io/images/logo_hu4cae0cee83ec6d4668dd4e53c2ec10be_420822_300x300_fit_lanczos_2.png</url>
       <title>News</title>
-      <link>https://jzhan211.github.io/CITE-sort.html</link>
+      <link>https://jzhan211.github.io/cite-sort.html</link>
     </image>
     
   </channel>
