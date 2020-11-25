@@ -14,10 +14,28 @@
     
     <item>
       <title>CITE-sort</title>
+      <link>https://jzhan211.github.io/CITE-sort/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jzhan211.github.io/CITE-sort/</guid>
+      <description>&lt;meta http-equiv=&#39;refresh&#39; content=&#39;0; URL=http://github.com/QiuyuLian/CITE-sort/&#39;&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CITE-sort</title>
       <link>https://jzhan211.github.io/software/CITE-sort/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://jzhan211.github.io/software/CITE-sort/</guid>
       <description>&lt;meta http-equiv=&#39;refresh&#39; content=&#39;0; URL=http://github.com/QiuyuLian/CITE-sort/&#39;&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>GMMDEMUX</title>
+      <link>https://jzhan211.github.io/GMMDEMUX/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jzhan211.github.io/GMMDEMUX/</guid>
+      <description>&lt;meta http-equiv=&#39;refresh&#39; content=&#39;0; URL=http://54.152.221.82/exp_planner/&#39;&gt;
 </description>
     </item>
     
@@ -131,24 +149,6 @@
 &lt;pre&gt;&lt;code&gt;FamLDCaller --vcf example2.vcf --pedfile example2.ped --refvcf example2.ref.vcf --states 20 --rounds 30 --prefix famldcaller.example2
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;Last update: Aug 2017&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>News</title>
-      <link>https://jzhan211.github.io/CITE-sort/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://jzhan211.github.io/CITE-sort/</guid>
-      <description>&lt;meta http-equiv=&#39;refresh&#39; content=&#39;0; URL=http://github.com/QiuyuLian/CITE-sort/&#39;&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>News</title>
-      <link>https://jzhan211.github.io/GMMDEMUX/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://jzhan211.github.io/GMMDEMUX/</guid>
-      <description>&lt;meta http-equiv=&#39;refresh&#39; content=&#39;0; URL=http://54.152.221.82/exp_planner/&#39;&gt;
 </description>
     </item>
     
